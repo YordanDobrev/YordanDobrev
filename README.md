@@ -4,4 +4,4 @@
 - I am interested I crypto industry and AI.
 - I have experience as MIS Technician, Data Analyst, Business Analyst and Process Engineer.
 
-<img src='https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa'/>
+<img src='https://github.com/YordanDobrev/GIF/blob/main/giphy.gif'/>
