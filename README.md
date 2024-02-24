@@ -5,4 +5,5 @@
 - I have experience as MIS Technician, Data Analyst, Business Analyst and Process Engineer.
 
 
-![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+![Alt Text](
+https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa)
